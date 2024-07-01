@@ -11,7 +11,7 @@ A modified [CSMOE](https://github.com/MoeMod/CSMoE) client for weapon showcase a
 ## How to Inspect ingame?
 Make a button and set the command as:
 ```
-~ cl_inspect
+cl_inspect
 ```
 
 ## How do i add Inspect and Empty Inspect in my v_model?
