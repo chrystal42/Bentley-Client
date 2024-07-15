@@ -6,19 +6,32 @@ A modified [CSMOE](https://github.com/MoeMod/CSMoE) client for weapon showcase a
 ## Features
 * [x] Inspect System
 * [x] Empty Inspect System
-* [x] Many Features will come idk :(
+* [x] Animated Camera (not released)
+* [x] Reload Empty (not released)
+* [x] Grenade Callout (not released)
 
-## How to Inspect ingame?
+## FAQ
+- **How to Inspect ingame?**
+  
 Make a button and set the command as:
 ```
 cl_inspect
 ```
 
-## How do i add Inspect and Empty Inspect in my v_model?
+- **How do i add Inspect and Empty Inspect in my v_model?**
+  
 Set a sequence inside the qc and firstly add `inspect` then `empty_inspect` at the end of sequence line.
+
+- **How do i make camera movement working ingame?**
+
+Just do the same tutorial as in the [CSLDR](https://github.com/mikkokko/csldr) readme.md
+
+- **How to make Reload Empty work in my model?**
+Just make an another sequence line from the bottom of empty inspect sequence
 
 ## Special Thanks:
 - Bill FLX: Source Code
 - MoeMod: Source Code
 - TempoChannel: Source Code and Help
+- Mikkoko: Cam Function Code (CSLDR)
 - FWGS Team: Xash Client Port to Android
