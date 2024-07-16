@@ -6,9 +6,9 @@ A modified [CSMOE](https://github.com/MoeMod/CSMoE) client for weapon showcase a
 ## Features
 * [x] Inspect System
 * [x] Empty Inspect System
-* [x] Animated Camera (not released)
-* [x] Reload Empty (not released)
-* [x] Grenade Callout (not released)
+* [x] Animated Camera (not released yet added)
+* [x] Reload Empty (not released yet added)
+* [x] Grenade Callout (not released yet added)
 
 ## FAQ
 - **How to Inspect ingame?**
